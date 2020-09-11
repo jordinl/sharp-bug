@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "svg-to-png": "node svg-to-png.js"
+  },
+  "dependencies": {
+    "sharp": "^0.26.0"
+  }
+}
